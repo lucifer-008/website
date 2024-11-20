@@ -50,5 +50,5 @@ python-dotenv==0.8.2
 whoosh==2.7.4
 jsonfield==2
 easy-thumbnails==2.6
-django-filer==1.6.0
+django-filer==3.0.0rc1
 beautifulsoup4==4.9.1
