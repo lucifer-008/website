@@ -52,3 +52,4 @@ jsonfield==2
 easy-thumbnails==2.6
 django-filer==1.6.0
 beautifulsoup4==4.9.1
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
