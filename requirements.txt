@@ -1,5 +1,5 @@
 # Pinned requirements
-Django==1.11.29
+Django==4.2.26
 Pillow==3.2.0
 aldryn-boilerplates==0.7.7
 aldryn-common==1.0.4
